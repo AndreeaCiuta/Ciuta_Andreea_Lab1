@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ciuta_Andreea_L11
+build_property.ProjectDir = C:\Users\Andreea\Desktop\Medii de programare\Lab 11\Ciuta_Andreea_L11\
+
+[C:/Users/Andreea/Desktop/Medii de programare/Lab 11/Ciuta_Andreea_L11/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ciuta_Andreea_L11.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Andreea/Desktop/Medii de programare/Lab 11/Ciuta_Andreea_L11/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ciuta_Andreea_L11.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Andreea/Desktop/Medii de programare/Lab 11/Ciuta_Andreea_L11/ListEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ciuta_Andreea_L11.ListEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListEntryPage.xaml
+
+[C:/Users/Andreea/Desktop/Medii de programare/Lab 11/Ciuta_Andreea_L11/ListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ciuta_Andreea_L11.ListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListPage.xaml
+
+[C:/Users/Andreea/Desktop/Medii de programare/Lab 11/Ciuta_Andreea_L11/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ciuta_Andreea_L11.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Andreea/Desktop/Medii de programare/Lab 11/Ciuta_Andreea_L11/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ciuta_Andreea_L11.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Andreea/Desktop/Medii de programare/Lab 11/Ciuta_Andreea_L11/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ciuta_Andreea_L11.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

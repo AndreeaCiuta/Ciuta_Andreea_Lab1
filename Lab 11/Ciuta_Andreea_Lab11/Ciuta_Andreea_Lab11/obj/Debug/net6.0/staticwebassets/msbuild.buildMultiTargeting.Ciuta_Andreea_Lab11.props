@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ciuta_Andreea_Lab11.props" />
+</Project>
